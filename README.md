@@ -3,7 +3,7 @@
 After creation, your project should look like this:
 
 ```
-DG4YOU/
+reactJs-crud/
   README.md
   node_modules/
   package.json
