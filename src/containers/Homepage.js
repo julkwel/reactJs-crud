@@ -73,7 +73,7 @@ class App extends Component {
         <Alert alert={this.state.alert} />
         <div className="col-md-12 text-center">
           <p>
-            <h3>Application CRUD employé web avec un API Graphql et ReactJS.</h3>
+            <h3>Teste CRUD react avec graphql.</h3>
           </p>
         </div>
         <div className="col-md-6">

@@ -18,11 +18,11 @@ import {
   
 
 const httplink = new HttpLink({
-   uri :'https://api.graph.cool/simple/v1/cjm2df1jf1ciq0147fztg4th7' 
+   uri :'https://api.graph.cool/simple/v1/cjm52411r563401176ml4mlzd' 
 })
 
 const wsLink = new WebSocketLink({
-    uri:'wss://subscriptions.graph.cool/v1/cjm2df1jf1ciq0147fztg4th7',
+    uri:'wss://subscriptions.graph.cool/v1/cjm52411r563401176ml4mlzd',
     options:{
         reconnect: true
     }
